@@ -32,3 +32,13 @@ h2 {
     font-weight: bold;
     color: blue;
 }
+
+p { 
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+figure {
+    margin-left: 0;
+}
